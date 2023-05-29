@@ -3,7 +3,7 @@
 # ChainShift
 Paradigm Shift for Supply Chain Payments
 
-# Tools Used and How:
+# Tools Used and How
 - Gnosis Chain:
   - Deploy Smart Contracts for Platform and Hold Escrow Fees Until KPIs Met, Then Automatically Release Funds
 - Remix IDE Online
