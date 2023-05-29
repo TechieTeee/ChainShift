@@ -1,9 +1,18 @@
 'use client'
 
 import { motion } from 'framer-motion';
-
 import { BranchIsWalletConnected } from '@/components/shared/branch-is-wallet-connected';
 import { FADE_DOWN_ANIMATION_VARIANTS } from '@/config/design';
+import { Etherspot } from "@etherspot/react-transaction-buidler";
+
+/**
+ * This is all that is needed to get started.
+ * To customize this, see the possible props
+ * you can pass in the docs.
+ */
+function RenderEtherspot(props) {
+  return <Etherspot />;
+}
 
 export default function PageDashboard() {
   const progressValues = [
@@ -20,7 +29,6 @@ export default function PageDashboard() {
         initial="hidden"
         whileInView="show"
         animate="show"
-        viewport={{ once: true }}
       >
         <BranchIsWalletConnected>
           <div className="flex-center col-span-12 flex flex-col lg:col-span-9">
@@ -152,8 +160,9 @@ export default function PageDashboard() {
               </div>
             </div>
             <h3 className="text-lg font-normal text-center mt-8">
-              Checkout Your Personalized Dashboard
+              <b>Bridge Your Assets</b> {/* Updated text */}
             </h3>
+            <RenderEtherspot /> {/* Etherspot component */}
           </div>
         </BranchIsWalletConnected>
       </motion.div>
