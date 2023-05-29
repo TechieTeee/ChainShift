@@ -40,8 +40,8 @@ Link to Video: https://www.loom.com/share/6d002fad139246b8b32faf5cc73f50ac
 Easiest way to run code is in Gitpod or locally
 git clone https://github.com/TechieTeee/ChainShift.git or fork repo (for Gitpod)
 
-cd ChainShift
+- cd ChainShift
 
-pnpm dev
+- pnpm dev
 
-Then go to your local browser- should be one localhost:3000
+- Then go to your local browser- should be one localhost:3000
