@@ -21,7 +21,10 @@ Link to Video: https://www.loom.com/share/6d002fad139246b8b32faf5cc73f50ac
 - NextJS + JS + TS:
   - Frontend of Website
  - Wagmi and Rainbow Kit:
-    - Web 3 Login 
+    - Web 3 Login
+- Vercel
+   - CI/CD Deployment
+
 
 # ChainShift Gnosis Deployment
 ![Deployment_Gnosis_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/874b2fe4-46f5-4dc1-8cc9-2f8f9fd4fc10)
