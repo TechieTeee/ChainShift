@@ -1,7 +1,19 @@
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 // Networks
 // -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-import { arbitrum, arbitrumGoerli, baseGoerli, goerli, hardhat, mainnet, optimism, optimismGoerli, polygon, sepolia } from '@wagmi/chains'
+import {
+  arbitrum,
+  arbitrumGoerli,
+  baseGoerli,
+  gnosis, gnosisChiado,
+  goerli,
+  hardhat,
+  mainnet,
+  optimism,
+  optimismGoerli,
+  polygon,
+  sepolia
+} from "@wagmi/chains";
 import { configureChains } from 'wagmi'
 import { alchemyProvider } from 'wagmi/providers/alchemy'
 import { infuraProvider } from 'wagmi/providers/infura'
@@ -18,7 +30,7 @@ baseGoerli.iconUrl = '/icons/NetworkBaseTest.svg'
 
 const CHAINS_SUPPORTED_BY_ALCHEMY = [mainnet, goerli, sepolia] // TODO add other chains supported by Alchemy
 const CHAINS_SUPPORTED_BY_INFURA = [mainnet, goerli, sepolia] // TODO add other chains supported by Infura
-const CHAINS_SUPPORTED_BY_PUBLIC_PROVIER = [arbitrum, arbitrumGoerli, baseGoerli, goerli, mainnet, optimism, optimismGoerli, polygon, sepolia]
+const CHAINS_SUPPORTED_BY_PUBLIC_PROVIER = [arbitrum, arbitrumGoerli, baseGoerli, goerli, mainnet, optimism, optimismGoerli, polygon, sepolia, gnosis, gnosisChiado]
 const CHAINS_SUPPORTED_BY_HARDHAT = [hardhat]
 
 const PROVIDERS = []

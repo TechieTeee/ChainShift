@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="356aa96d-68d8-4105-81b4-dd9731e20062" name="Changes" comment="QA Progress Viz and PP">
+    <list default="true" id="356aa96d-68d8-4105-81b4-dd9731e20062" name="Changes" comment="Fixed Bridge Assets Components and Package Manager">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/dashboard/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/dashboard/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/networks.ts" beforeDir="false" afterPath="$PROJECT_DIR$/config/networks.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo-fill.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo-fill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo-gradient.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo-gradient.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/logo.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1685299370787</updated>
       <workItem from="1685299371868" duration="1181000" />
-      <workItem from="1685300584869" duration="38368000" />
+      <workItem from="1685300584869" duration="40928000" />
     </task>
     <task id="LOCAL-00001" summary="QA Progress Viz and PP">
       <created>1685342858069</created>
@@ -58,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685342858069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fixed Bridge Assets Components and Package Manager">
+      <created>1685343744697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685343744697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="QA Progress Viz and PP" />
-    <option name="LAST_COMMIT_MESSAGE" value="QA Progress Viz and PP" />
+    <MESSAGE value="Fixed Bridge Assets Components and Package Manager" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed Bridge Assets Components and Package Manager" />
   </component>
 </project>
