@@ -3,7 +3,7 @@
 # ChainShift
 Paradigm Shift for Supply Chain Payments
 
-# Demo
+# Background + Demo
 Link to Video: https://www.loom.com/share/6d002fad139246b8b32faf5cc73f50ac
 
 # Tools Used and How
