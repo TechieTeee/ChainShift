@@ -34,3 +34,14 @@ Link to Video: https://www.loom.com/share/6d002fad139246b8b32faf5cc73f50ac
 
 ## Transaction Hash Gnosis Chain Chiado Testnet
 0x4047d8572dbb54218a40dec3880a843eee204276948a51a6507e0d751a9a7956
+
+
+# Running the Code
+Easiest way to run code is in Gitpod or locally
+git clone https://github.com/TechieTeee/ChainShift.git or fork repo (for Gitpod)
+
+cd ChainShift
+
+pnpm dev
+
+Then go to your local browser- should be one localhost:3000
