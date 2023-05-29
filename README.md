@@ -3,7 +3,7 @@
 # ChainShift
 Paradigm Shift for Supply Chain Payments
 
-# ChainShift Gnosis CDeployment
+# ChainShift Gnosis Deployment
 ![Deployment_Gnosis_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/874b2fe4-46f5-4dc1-8cc9-2f8f9fd4fc10)
 
 
