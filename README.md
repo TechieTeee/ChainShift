@@ -1,7 +1,7 @@
 ![Landing_Image_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/8ffc0c45-7d9b-4d68-b8f5-d06814257be2)
 
 # ChainShift
-Paradigm Shift for Supply Chains
+Paradigm Shift for Supply Chain Payments
 
 # ChainShift Gnosis Chiadao Deployment
 ![image](https://github.com/TechieTeee/ChainShift/assets/100870737/e6079698-8861-4cbe-8959-910bae26eabe)
