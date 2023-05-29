@@ -14,11 +14,11 @@ Paradigm Shift for Supply Chain Payments
 - Etherspot:
   - Bridge Assets
 - Gateway:
- -  RPCs to Connect to Gnosis Chain Mainnet and Chiado Testnet
+  - RPCs to Connect to Gnosis Chain Mainnet and Chiado Testnet
 - NextJS + JS + TS:
-  -  Frontend of Website
-  -  Wagmi and Rainbow Kit:
-    -  Web 3 Login 
+  - Frontend of Website
+ - Wagmi and Rainbow Kit:
+    - Web 3 Login 
 
 # ChainShift Gnosis Deployment
 ![Deployment_Gnosis_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/874b2fe4-46f5-4dc1-8cc9-2f8f9fd4fc10)
