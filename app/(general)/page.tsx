@@ -37,7 +37,7 @@ export default function Home() {
             <motion.div className="mx-auto mt-6 flex items-center justify-center space-x-5" variants={FADE_DOWN_ANIMATION_VARIANTS}>
               <a
                 className="group flex max-w-fit items-center justify-center space-x-2 rounded-full border border-black bg-black px-5 py-2 text-sm text-white transition-colors hover:bg-white hover:text-black"
-                href={'https://docs.turboeth.xyz/'}
+                href={'/dashboard'}
                 target="_blank"
                 rel="noopener noreferrer">
                 <span className="text-xl">🔗</span>
