@@ -1,4 +1,4 @@
-![Chain_Shift_Logo](https://github.com/TechieTeee/ChainShift/assets/100870737/e6e6f5b9-15fe-4896-aca3-4629ac966f18)
+![Landing_Image_ChainShift](https://github.com/TechieTeee/ChainShift/assets/100870737/8ffc0c45-7d9b-4d68-b8f5-d06814257be2)
 
 # ChainShift
 Paradigm Shift for Supply Chains
